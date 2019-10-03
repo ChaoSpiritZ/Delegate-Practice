@@ -1,0 +1,7 @@
+C:\Users\HackerU\source\repos\DelegatePractice\DelegatePractice\bin\Debug\DelegatePractice.exe.config
+C:\Users\HackerU\source\repos\DelegatePractice\DelegatePractice\bin\Debug\DelegatePractice.exe
+C:\Users\HackerU\source\repos\DelegatePractice\DelegatePractice\bin\Debug\DelegatePractice.pdb
+C:\Users\HackerU\source\repos\DelegatePractice\DelegatePractice\obj\Debug\DelegatePractice.csprojAssemblyReference.cache
+C:\Users\HackerU\source\repos\DelegatePractice\DelegatePractice\obj\Debug\DelegatePractice.csproj.CoreCompileInputs.cache
+C:\Users\HackerU\source\repos\DelegatePractice\DelegatePractice\obj\Debug\DelegatePractice.exe
+C:\Users\HackerU\source\repos\DelegatePractice\DelegatePractice\obj\Debug\DelegatePractice.pdb
